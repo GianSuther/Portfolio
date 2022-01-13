@@ -1,0 +1,394 @@
+.nav-item{
+    padding-right: 13px;
+    display: flex;
+    flex-direction: row;
+}
+#cote{
+    /* border: solid 1px; */
+    width: 50%;
+    height: 700px ;
+    padding-top: 100px;
+}
+#home{
+    color: black;
+}
+
+
+
+#abut{
+    color: black;
+}
+#skills{
+    color: black;
+}
+#service{
+    color: black;
+}
+#project{
+    color: black;
+}
+#blog{
+    color: black;
+}
+#contact{
+    color: black;
+}
+
+
+
+
+#table{
+    width: 50%;
+    height: 700px;
+    background-size: 400px;
+    background-image:url(./image/WhatsApp_Image_2021-10-20_at_5.23.05_AM-removebg-preview.png) ;
+    background-repeat: no-repeat;
+    background-position-x: 100px;
+    /* border: solid 1px; */
+    background-color: white;
+    
+
+    }
+    
+ #about{
+     width: 100%;
+     height: 650px;
+    
+     display: flex;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     
+     
+ }  
+ #half{
+     width: 35%;
+     height: 650px;
+     margin-left: 10%;
+     background-image: url(./image/WhatsApp_Image_2021-10-23_at_3.19.26_AM-removebg-preview\ \(1\).png);
+     background-repeat: no-repeat;
+     background-size: 490px;
+     background-color:lavender;
+     box-shadow: 0px 0px 50px gray;
+ } 
+ #full{
+    width: 55%;
+    height: 650;
+    background-color: honeydew;
+   margin-right: 20px;
+
+ }
+ .paint{
+     color: gray;
+ }
+ #line{
+     width: 500px;
+     height: 70px;
+     border: solid 1px;
+     margin-left: 40px
+ }
+#card{
+    
+    width: 100%;
+    height: 1100px;
+    background-color: ghostwhite;
+
+}
+.had{
+    color: #b1b493;
+    padding-top: 30px;
+}
+
+#card2{
+    width: 100%;
+    height: 1000px;
+    background-color: white;
+    
+}
+#icon{
+    width: 100%;
+    height: 200px;
+    /* border: solid 1px; */
+    background-color:gainsboro;
+    display: flex;
+    justify-content: round -between;
+    align-items: center;
+}
+.head{
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.icon1{
+    display: flex;
+    /* padding-right: 280px; */
+    margin-left: 180px;
+    text-align: middle;
+    margin-left: px;
+    
+}
+#box{
+    width: 1200px;
+    height: 750px;
+    /* border: solid 1px; */
+    margin-left: 115px;
+    margin-top: 50px;
+    
+}
+#tabl{
+    width: 1100px;
+    height: 750px;
+    /* border: solid 1px; */
+    margin-left: 130px;
+    margin-top: 40px;
+}
+#linea1{
+    width: 1100px;
+    height: 375px;
+    /* border: solid 1px; */
+    display: flex;
+    margin-bottom: 30px;
+}
+#linea2{
+    width: 1100px;
+    height: 375px;
+    /* border: solid 1px; */
+    display: flex;
+}
+.linea{
+    width: 350px;
+    height: 350px;
+    box-shadow: 0px 0px 20px #b1b493;
+    margin-right: 25px;
+    border-radius: 5px;
+    background-color: white;
+
+}
+.htmal{
+    text-align: center;
+    margin-top: 30px;
+    font-weight: bold;
+}
+.lineb{
+    width: 350px;
+    height: 350px;
+    box-shadow: 0px 0px 20px #b1b493;
+    margin-right: 25px;
+    border-radius: 5px;
+    background-color: white;
+}
+#box1a{
+    display: flex;
+    margin-bottom: 40px;
+
+}
+.box1{
+    width: 240px;
+    height: 240px;
+    box-shadow: 0px 0px 20px #b1b493;
+    border-radius: 5px;
+    margin-left: 30px;
+    margin-top: 20px;
+    background-color: white;
+}
+.box1:hover{
+    background-color: #cccccc;
+    color: white;
+}
+#box2b{
+    display: flex;
+}
+.box2{
+    width: 240px;
+    height: 240px;
+    box-shadow: 0px 0px 20px #b1b493;
+    border-radius: 5px;
+    margin-left: 30px;
+    margin-top: 20px;
+    background-color: white;
+}
+.box2:hover{
+    background-color: #cccccc;
+    color: white;
+}
+
+
+.space{
+    margin-top: 60px;
+    padding-left: 20px;
+    margin-bottom: 15px;
+}
+.splace{
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 15px;
+    color: #b1b493;
+}
+
+
+
+#lne{
+    color: #b1b493;
+}
+#pict{
+
+    width: 100%;
+    height: 230px;
+    background-color:#b1b493;
+    display: flex;
+
+}
+#div1{
+    /* border: solid 1px; */
+    width: 700px;
+    height: 230px;
+    margin-left: 120px;
+}
+#div2{
+    
+    width: 400px;
+    height: 280px;
+    margin-top: -280px;
+    margin-left: 65%; 
+    
+}
+#imge{
+   margin-top: -70px;
+   
+}
+#height{
+    color: white;
+    font-weight: bold;
+    margin-top: 30px;
+}
+#bglocor{
+    color: white;
+}
+#button{
+    background-color: white;
+    padding: 15px;
+    border-radius: 6px;
+    border: white;
+    color:#b1b493 ;
+}
+#projects{
+    width: 100%;
+    height: 1000px;
+    
+}
+#hed{
+    color: #b1b493;
+    text-align: center;
+    padding-top: 70px;
+}
+#cent{
+    text-align: center;
+}
+#far{
+    margin-left: 350px;
+    color: #cccccc;
+}
+.width{
+    width: 1300px;
+    height: 300px;
+    margin-left: 33px;
+    margin-top: 30px;
+    display: flex;
+}
+.smallbox{
+  width: 320px;
+  height: 300px;
+  
+  margin-right: 20px;
+  border-radius: 7px;
+  box-shadow: 0px 0px 20px #b1b493;
+}
+.width :hover{
+    background-color: #b1b493;
+
+}
+#bleg{
+    border: solid 1px;
+    width:100%;
+    height:900px;
+    background-color: #f8f9fa;
+}
+#blg{
+    text-align: center;
+}
+.blu{
+    color: #cccccc;
+    margin-top: 70px;
+}
+#jok{
+    color: #b1b493;
+    text-align: center;
+    margin-left: 360px;
+}
+#ourproject{
+    border: solid 1px ;
+    width: 100%;
+    height: 760px;
+}
+
+#maintext{
+    /* border: solid 1px; */
+    width: 1120px;
+    height: 500px;
+    margin-top: 70px;
+    margin-left: 0110px;
+    display: flex;
+}
+#maintext1{
+   
+   width: 690px;
+   height: 500px;
+   background-color: #f8f9fa;
+}
+#maintex{
+    /* border: solid 1px; */
+    width: 600px;
+    height: 400px;
+    margin-left: 30px;
+    margin-top: 45px;
+}
+#input1{
+padding: 10px 89px 10px 10px;
+border: solid 2px #b1b493;
+margin-right:10px ;
+margin-right: 25px;
+border-radius: 3px;
+}
+#input2{
+    padding: 10px 89px 10px 10px;  
+    border: solid 2px #b1b493; 
+    border-radius: 3px;
+}
+#input3{
+    padding: 10px 403px 10px 10px;  
+    border: solid 2px #b1b493; 
+    margin-top: 18px;
+    border-radius: 3px;
+}
+#textarea{
+    /* padding: 80px; */
+    padding-right: 410px;
+    padding-bottom: 130px;
+    border: solid 2px #b1b493; 
+    padding-left: 20px;
+    margin-top: 20px;
+    border-radius: 3px;
+}
+#maintext2{
+    width: 480px;
+    height: 500px;
+    border: solid 1px;
+}
+#areabutn{
+    padding: 13px;
+    padding-left: 35px;
+    padding-right: 35px;
+    color: white;
+    border-radius: 5px;
+    background-color:#b1b493 ;
+    border: solid 2px #b1b493;
+    margin-top: 10px;
+}
